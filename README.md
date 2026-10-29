@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on JavaScript
 - 🤔 I’m looking for help with PHP
 - 💬 Ask me about JAVA
-- 📫 How to reach me: jorge@grupostudium.com
+- 📫 How to reach me: jorge@grupostudium.cloud
 - 😄 Pronouns: Happiness, Peace, Health, Money
 - ⚡ Fun fact: Sports, Game Sports
 
